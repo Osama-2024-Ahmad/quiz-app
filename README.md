@@ -2,6 +2,24 @@
 
 A modern, interactive single web application for testing knowledge in web development technologies including HTML, CSS, JavaScript, and React.
 
+## 🚀 Live Demo
+
+You can try the live demo here: [https://quiz-app-ten-sand-84.vercel.app/](https://quiz-app-ten-sand-84.vercel.app/)
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Quiz Taking
+![Quiz Taking](screenshots/quiz.png)
+
+### Results
+![Results](screenshots/results.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - 📚 Multiple quiz categories (HTML, CSS, JavaScript, React)
