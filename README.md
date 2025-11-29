@@ -9,16 +9,10 @@ You can try the live demo here: [https://quiz-app-ten-sand-84.vercel.app/](https
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
-
-### Quiz Taking
-![Quiz Taking](screenshots/quiz.png)
-
-### Results
-![Results](screenshots/results.png)
+![Home Page](screenshots/1-Homepage.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/2-Dashboard.png)
 
 ## Features
 
