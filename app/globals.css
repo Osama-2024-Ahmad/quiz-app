@@ -24,3 +24,36 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.btn-primary{
+  @apply px-6 py-3 
+    bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 
+    text-white 
+    rounded-lg 
+    font-semibold 
+    hover:from-indigo-600 hover:via-purple-600 hover:to-pink-600 
+    transition 
+    shadow-lg 
+    flex items-center gap-2
+    disabled:opacity-50 disabled:cursor-not-allowed
+    cursor-pointer;
+    
+}
+.txt-primary{
+    @apply px-6 py-3
+    text-transparent 
+    bg-clip-text 
+    bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 
+    font-semibold 
+    
+    
+   
+   
+   
+    ;
+}
+
+.bg-primary {
+  @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500;
+}
